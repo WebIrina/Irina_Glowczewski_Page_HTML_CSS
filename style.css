@@ -1,6 +1,19 @@
-
 body{
     font-family: "Montserrat";
-    background-color: #cde3e5;
-    color: rgb(2, 2, 85);
+    background-color: #fdeec3;
+    color: #477495;
+}
+img{
+    border: 5px solid #63a3b4;
+}
+nav{
+    background-color: #f5c793;
+    padding: 20px;
+}
+footer{
+    background-color: #f5c793;
+    padding: 20px;
+}
+a{
+    color: #63a3b4;
 }
