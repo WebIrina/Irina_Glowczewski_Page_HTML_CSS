@@ -5,15 +5,18 @@ body{
 }
 img{
     border: 5px solid #63a3b4;
+    margin: 10px;
 }
 nav{
     background-color: #f5c793;
     padding: 20px;
 }
 footer{
-    background-color: #f5c793;
+    background-color: #cdb19c;
     padding: 20px;
+    text-align: center;
 }
 a{
     color: #63a3b4;
+    margin: 10px;
 }
