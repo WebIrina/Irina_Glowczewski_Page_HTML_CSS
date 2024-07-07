@@ -10,7 +10,7 @@ img{
 nav{
     background-color: #f5c793;
     padding: 20px;
-    position: fixed;
+    /*position: fixed;*/
     margin: 10px;
 }
 footer{
